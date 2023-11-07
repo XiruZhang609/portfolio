@@ -15,7 +15,7 @@ Part 1: Working with web-based visualization tools and data
 <iframe src="https://data.oecd.org/chart/7fad" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fad" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2018</a></iframe>
 
 Part 2: Working with Tableau 
-    
+<div class='tableauPlaceholder' id='viz1699399048407' style='position: relative'><noscript><a href='#'><img alt='Government Debt ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebt1&#47;GovernmentDebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GovernmentDebt1&#47;GovernmentDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebt1&#47;GovernmentDebt&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1699398394337');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
