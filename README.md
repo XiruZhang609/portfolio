@@ -11,4 +11,14 @@ I want to acquire skills in data visualization and the use of tools to increase 
 ## Portfolio
 ### Assignment: Visualizing government debt using Tableau
 <iframe src="https://data.oecd.org/chart/7fad" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fad" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2018</a></iframe>
+           
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1699398394337');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 ## Samples
