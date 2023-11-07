@@ -26,4 +26,8 @@ Part 2: Working with Tableau
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Part 3: Create your own visualization
+
+
+
 ## Samples
