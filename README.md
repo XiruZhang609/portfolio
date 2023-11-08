@@ -34,6 +34,7 @@ I want to acquire skills in data visualization and the use of tools to increase 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-The third line graph uses the same dataset but distills the information. I chose the average global government debt to compare with the top and bottom data and highlighted the data by shifting colors from cool to warm. It is clear from the data that the vast majority of governments have more concurrent ups and downs in their debt, so the extreme variations are more likely to grab the reader's attention and convey the message. It is also much more efficient for the general reader to quickly access a few of the top and bottom data than to browse the dataset.
+The second type of chart expands the data entirely and indicates trends with a large distribution of colors. The overall composition is extensive and informative. It's more suitable for professional and authoritative references; however, it can be difficult for everyday reading and extracting simple information.
+The third line graph uses the same dataset but distills the information. I chose the average global government debt to compare with the top three and bottom data and highlighted the data by shifting colors from cool to warm. It is clear from the data that the vast majority of governments have more concurrent ups and downs in their debt, so the extreme variations are more likely to grab the reader's attention and convey the message. It is also much more efficient for the average reader to quickly access a few of the top and bottom data than to browse the dataset.
 
 ## Samples
