@@ -3,7 +3,7 @@
 ### Step 1&2
 [What Are The Cheapest High-Protein Foods?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)
 
-[Screenshot](https://images.squarespace-cdn.com/content/v1/5d59f351fddabe00013cf3e6/f9b4b336-fe23-4260-aae3-19f6f8f72b8b/PROTEIN+COST.png?format=2500w)
+[Screenshot](draft/PROTEIN+COST.png)
 
 __Reason__:
 First of all, I was intrigued by the topic of this data, which is very relevant and full of all kinds of foods. Secondly, the chart's title appealed to me because it contained the message 'low prices'. Once I saw the chart, I found it to be a concise and single bar chart with vertical information. Modifications could make it more interesting, but not so much that a cooking-loving but frugal grandmother would find it difficult to read.
