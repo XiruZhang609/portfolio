@@ -7,9 +7,8 @@ At this stage, I am seeking work in the gaming and esports industry. I want to d
 # What I hope to learn
 I want to acquire skills in data visualization and the use of tools to increase my competitiveness in data analysis. In the entertainment industry, especially in the fast-growing industries such as gaming and e-sports, the data of players and viewers are enormous. I hope to be able to better understand the market changes and players' habits through data visualization and, at the same time, be able to present it to others more efficiently and convincingly so that I can be qualified for the position of operating from clubs to game IPs.
 # Portfolio
-## Assignment: Visualizing government debt using Tableau
-[A relative link](/page2.md)
-## Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
-[A relative link](/page3.md)
+## Assignment: [Visualizing government debt using Tableau](/page2.md)
+
+## Assignment 3 & 4: [Critique by Design with Tableau (MakeoverMonday)](/page3.md)
 
 ## Samples 
