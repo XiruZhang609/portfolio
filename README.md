@@ -52,8 +52,8 @@ __Observation__:
 With prices skyrocketing, the topic of this chart is of high interest and very useful in everyday life. However, from a data comparison perspective, the population may compare in a more everyday unit, such as how much a meal or a day's recommended protein intake would cost or the maximum amount of protein consumed for the same price. Because of this, data comparison has yet to find the most efficient and intuitive entry point. I think it lacks a comparison with historical costs regarding information needed to understand. This topic exists on the premise that eggs are no longer the most cost-effective protein food, so the notion of difference can be better constructed by comparing it with historical egg costs. The calorie data in the chart is somewhat redundant; it has nothing to do with the y-axis, so the data can mislead the viewer and affect understanding. In terms of chart design, it uses the most straightforward and familiar bar chart and starts the Y-axis from 0, which significantly reduces the difficulty of understanding and, at the same time, ensures the truthfulness of the chart, choosing a pro-people way for the pro-people topic. However, its use of color is almost nil, as the group it is dealing with is people who care about eating healthy or fitness, so I tend to use color to differentiate between food groups such as meat, veggies and dairy products, which makes it easy to supplement the information they may need. Finally, this chart gives limited audience interaction and shows representative pictures of each thing to enhance the reader's attention and speed span in capturing information. But little is done to aid comprehension in the process. However, for mass readers of all ages, perhaps the simplicity of the reading is a plus.
 ### Step 3
  __Draft__:
-[Draft1](draft/draft1.png)
-[Draft2](draft/draft2.png)
+![Draft1](draft/draft1.png)
+![Draft2](draft/draft2.png)
 
 __Interview__:
 __- Can you tell me what you think this is?__
