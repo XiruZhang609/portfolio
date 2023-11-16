@@ -78,3 +78,5 @@ After watching Viz Review video, I saw many novel ways of visualization and inte
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+[Watch me Viz](https://youtube.com/live/45pgu_SrZsg?feature=share)
