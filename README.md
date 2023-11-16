@@ -59,38 +59,45 @@ __Interview__:
 __- Can you tell me what you think this is?__
 
 _Student, 23 : Price comparison chart for food._
+
 _Adult, 52: Grids like a puzzle, with the grid area representing the high and low prices._
 
 __- Can you describe to me what this is telling you?__
 
 _Student, 23 : Canned chicken is so bad for the money, don't buy it. But the chicken legs are great. I can buy mainly the dark green part._
+
 _Adult, 52: These two blue ones are too expensive, and this pile of dark green ones in the lower right corner could be considered a usual purchase. I didn't look closely at these in the middle._
 
 __- Is there anything you find surprising or confusing?__
 
 _Student, 23 : This form of table is rare. Is there a particular purpose for it? There are similar types of food in these, but the prices vary greatly, such as different chicken and fish. Substitutions can be considered later._
+
 _Adult, 52: Why did you put them together? Is this blue-to-green ratio of any use? The green color takes up a large portion._
 
 __- Are you more interested in knowing the price of the food for the same amount of protein or the amount of protein for the same price?__
 
 _Student, 23 : The price._
+
 _Adult, 52: The price._
 
 __-Would you rather see a chart that offers interactivity like this sketch or a simple bar chart?__
 
 _Student, 23 : I'll find it kinda funny when you tell me your intentions. But this should require a lot of text, and the graph is so square that text isn't very easy to add. A bar graph would suffice. And even with this 
  interaction, it's not really much of a reference._
+
 _Adult, 52: I definitely think simple is better. Those words are so small I struggle to read them. And I don't see a chart like this often, so I can't react to it or read it in order. Besides, you can't actually put 
  them together in 20g combinations because the supermarkets sell them in pack sizes._
 
 __-Does the color make it difficult for you to read, especially when it represents food?__
 
 _Student, 23 : It's okay. The green color looks healthy. But there are several layers of green and just two of blue._
+
 _Adult, 52: The color is too dark to see the words. Both are kind of cool-toned for food._
 
 __- Is there anything you would change or do differently?__
 
 _Student, 23 : If it's for that fun interactive science, I'll refine this to make sense; if it's a webzine or something, then it's still more intuitive to have a simple diagram, I guess._
+
 _Adult, 52: Not very practical for people of our age. Or if you make the font a little bigger? This bunch of grids looks a little messy to me._
 
 __Conclusion__：
