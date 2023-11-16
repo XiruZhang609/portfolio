@@ -11,4 +11,4 @@ I want to acquire skills in data visualization and the use of tools to increase 
 [a relative link](/page2.md)
 ## Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 [a relative link](/page3.md)
-## Samples
+## Samples 
