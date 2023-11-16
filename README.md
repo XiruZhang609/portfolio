@@ -8,6 +8,7 @@ At this stage, I am seeking work in the gaming and esports industry. I want to d
 I want to acquire skills in data visualization and the use of tools to increase my competitiveness in data analysis. In the entertainment industry, especially in the fast-growing industries such as gaming and e-sports, the data of players and viewers are enormous. I hope to be able to better understand the market changes and players' habits through data visualization and, at the same time, be able to present it to others more efficiently and convincingly so that I can be qualified for the position of operating from clubs to game IPs.
 # Portfolio
 ## Assignment: Visualizing government debt using Tableau
+[Link to other page](/page2.md)
 ### Part 1: Working with web-based visualization tools and data
 <iframe src="https://data.oecd.org/chart/7fad" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fad" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2018</a></iframe>
 
