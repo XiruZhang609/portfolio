@@ -1,1 +1,4 @@
+### Ideas
+My idea was to do a data visualization of esports, such as the trend of audience numbers globally or in China in recent years. Gaming and e-sports, as an increasingly recognized and thriving industry, should have seen significant changes in data over the last decade. However, I encountered difficulties in the data collection process, as I could not find gaming-related datasets on data sites, and the service providers that offer the corresponding datasets are usually commercial sites and consulting companies that require payment. Therefore, I am still looking for free and complete databases.
 
+My initial idea is to make a mobile H5 that can be viewed by swiping, and by constantly sliding down, viewers can visualize the changes in the number of viewers and the heat of e-sports tournaments in the past ten or even twenty years.
